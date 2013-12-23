@@ -1,9 +1,16 @@
 {
     "name" : "SimpleWebSSL",
+    "description"    : "Web Server, support SSL",
     "dependencies" : {
         "express" : "3.4.2",
         "jade"    : "0.35.0"
     },
     "version" : "0.0.1",
-    "private": true
+    "author"         : "BEJO Li",
+    "email"          : "bejo.mob@gmail.com",
+    "keywords"       : ["ssl", "web server", "web"],
+    "main"           : "webSSL.js",
+    "version"        : "0.0.1",
+    "type"           : "git",
+    "url"            : "https://github.com/BejoTW/SimpleWebSSL.git"
 }
